@@ -1,6 +1,6 @@
-### This repository contains the source code of the second midterm exam of the course Object-Oriented Programming
+# This repository contains the source code of the second midterm exam of the course Object-Oriented Programming
 
-###### Down below is the content of the task. Source code can be found in OOP directory
+### Down below is the content of the task. Source code can be found in OOP directory
 
 Define an **abstract class Case** with a text label, a numerical colour, a method providing the number of Cases and
 the pure **virtual method getCapacity** computing the capacity (volume) of a case.
